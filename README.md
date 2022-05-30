@@ -1,4 +1,4 @@
-**# Valet Parking -Final Project Completed in Object Oriented Programming class at Seneca (OOP244) - Computer Programming Program**
+**# Valet Parking -Final Project Completed in Object Oriented Programming class at Seneca (OOP244) - Computer Programming**
 
 This is a valet parking program which allows its users to keep track of and edit which vehicles (cars or motorcycles) are parked in the parking lot 
 
